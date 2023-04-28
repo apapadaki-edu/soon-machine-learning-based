@@ -1,2 +1,2 @@
-# machine-learning-based-soon-
-Some machine learning projects developed for my studies or free time
+# machine-learning-based
+Some machine learning projects developed during my studies or free time
